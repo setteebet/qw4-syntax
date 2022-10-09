@@ -1,0 +1,18 @@
+{
+  "name": "qw4-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "เว็บlottoเฮง✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"เว็บlottoเฮง",
+"เล่นหวยเว็บ",
+"หวยลาว lottovip",
+"วิธีเล่นหวยในเว็บ",
+"เวปหวยดี"
+],
+  "repository": "https://github.com/setteebet/qw4-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
